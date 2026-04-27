@@ -11,15 +11,10 @@ A console-based calculator built in Java that supports multiple mathematical ope
 - Basic error handling for invalid operations
 
 ## Example
-Enter the first number:
-5
-Enter operation:
-+
-Enter the second number:
-3
-Output:
-8
-
+Enter the first number: 5  
+Enter operation: +  
+Enter the second number: 3  
+Output: 8  
 
 ## Motivation
 This project was built to strengthen my understanding of user input handling, control flow (loops and conditionals), and implementing multiple functionalities within a single program.
