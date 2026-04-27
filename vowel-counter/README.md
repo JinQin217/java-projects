@@ -26,7 +26,7 @@ This project was built to practice string manipulation, iteration, and basic dat
 - Loops and conditionals
 
 ## How to Run
-1. Compile:
+1. Compile:<br>
    javac VowelCount.java
-2. Run:
+2. Run:<br>
    java VowelCount
