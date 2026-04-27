@@ -25,7 +25,7 @@ This project was built to strengthen my understanding of user input handling, co
 - Control flow structures
 
 ## How to Run
-1. Compile:
+1. Compile:<br>
    javac BasicCalculator.java
-2. Run:
+2. Run:<br>
    java BasicCalculator
