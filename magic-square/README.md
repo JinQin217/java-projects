@@ -24,7 +24,7 @@ This project was created to explore algorithm design, randomness, and constraint
 - Performance measurement
 
 ## How to Run
-1. Compile:
+1. Compile:<br>
    javac MagicSquare.java
-2. Run:
+2. Run:<br>
    java MagicSquare
