@@ -24,7 +24,7 @@ This project was created to reinforce foundational object-oriented programming c
 - Class methods
 
 ## How to Run
-1.Compile:<br>
-  javac Rectangle.java
-2.Run:<br>
-  java Rectangle
+1. Compile:<br>
+   javac Rectangle.java
+2. Run:<br>
+   java MagicSquare
