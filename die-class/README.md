@@ -25,6 +25,6 @@ This project was built to practice object-oriented programming concepts such as 
 
 ## How to Run
 1.Compile:<br>
-javac Die.java<br>
+  javac Die.java<br>
 2.Run:<br>
-java Die
+  java Die
