@@ -24,7 +24,7 @@ This project was built to practice object-oriented programming concepts such as 
 - Class invariants
 
 ## How to Run
-1. Compile:
+1. Compile:<br>
    javac Die.java
-2. Run:
+2. Run:<br>
    java MagicSquare
