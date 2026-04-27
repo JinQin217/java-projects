@@ -11,9 +11,11 @@ An object-oriented implementation of a customizable die with dynamic face labels
 - Includes multiple constructors
 
 ## Example Usage
+```java
 Die d1 = new Die("A", "B", "C");
 d1.Roll();
 System.out.println(d1.GetValue());
+```
 
 ## Motivation
 This project was built to practice object-oriented programming concepts such as encapsulation, constructors, and method overriding.
