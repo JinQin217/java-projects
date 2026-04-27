@@ -1,27 +1,33 @@
 # Basic Calculator (Java)
 
 ## Overview
-This project is a console-based calculator built in Java that supports multiple mathematical operations.
+A console-based calculator built in Java that supports multiple mathematical operations and demonstrates control flow, user input handling, and error management.
 
 ## Features
 - Addition, subtraction, multiplication, division
-- Exponentiation (integer powers)
+- Exponentiation (non-negative integers)
 - Square root calculation
-- User input handling via console
-- Error handling for invalid operations
+- Continuous user interaction loop
+- Basic error handling for invalid operations
 
-## How It Works
-The program continuously prompts the user to:
-1. Enter a number
-2. Select an operation
-3. Enter a second number (if required)
+## Example
+Enter the first number:
+5
+Enter operation:
++
+Enter the second number:
+3
+Output:
+8
 
-The program processes the input and outputs the result.
+
+## Motivation
+This project was built to strengthen my understanding of user input handling, control flow (loops and conditionals), and implementing multiple functionalities within a single program.
 
 ## Technologies
 - Java
 - Scanner (input handling)
-- Control flow (loops, conditionals)
+- Control flow structures
 
 ## How to Run
 1. Compile:
